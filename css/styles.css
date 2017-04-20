@@ -3,7 +3,7 @@
   clear: left;
 }
 
-ul {
+.resources ul {
   list-style: none;
 }
 
@@ -13,4 +13,27 @@ li {
 
 .resources-main li {
   margin-left: -10%;
+}
+
+.well .welcome1 {
+  text-align: center;
+  float: left;
+
+}
+
+.well .welcome2 {
+  float: right;
+}
+
+div.well.well-lg {
+  height: %;
+}
+
+.portals {
+  font-weight: bold;
+}
+
+div .welcome2 ul {
+  float: right;
+  list-style-type:  !important;;
 }
