@@ -11,6 +11,10 @@ li {
   display: block;
 }
 
+.resources-main {
+  margin-top: 10%;
+}
+
 .resources-main li {
   margin-left: -10%;
 }
@@ -33,7 +37,12 @@ div.well.well-lg {
   font-weight: bold;
 }
 
-div .welcome2 ul {
+.welcome2 ul {
   float: right;
   list-style-type:  !important;;
+}
+
+.alpine {
+  float: left;
+  padding-right: 5%;
 }
