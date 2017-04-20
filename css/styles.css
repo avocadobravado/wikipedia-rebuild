@@ -1,0 +1,16 @@
+.resources {
+  float: left;
+  clear: left;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: block;
+}
+
+.resources-main li {
+  margin-left: -10%;
+}
